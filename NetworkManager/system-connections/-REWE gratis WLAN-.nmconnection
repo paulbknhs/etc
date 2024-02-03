@@ -1,0 +1,18 @@
+[connection]
+id=-REWE gratis WLAN-
+uuid=488c854d-f33f-43fa-ac17-4ab4ae3642a5
+type=wifi
+interface-name=wlan0
+
+[wifi]
+mode=infrastructure
+ssid=-REWE gratis WLAN-
+
+[ipv4]
+method=auto
+
+[ipv6]
+addr-gen-mode=default
+method=auto
+
+[proxy]
